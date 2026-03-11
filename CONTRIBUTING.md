@@ -11,3 +11,4 @@ Notes and usage details for line-oa-mcp-ultimate.
 - add a note about the defaults
 - add a note about the defaults
 - link the usage section
+- add a note about the defaults
